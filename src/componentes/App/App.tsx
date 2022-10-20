@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <TesteComponente />
-        <ClassComponente name='Mundo!'/>
+        <ClassComponente name='Mundo!!!'/>
 
         <a
           className="App-link"
